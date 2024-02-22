@@ -1,0 +1,8 @@
+duckdb==0.10.0
+hvplot==0.9.2
+matplotlib==3.8.3
+notebook==6.5.4
+pandas==2.1.4
+polars==0.20.10
+pyarrow==15.0.0
+traitlets==5.9.0
