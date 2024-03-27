@@ -23,3 +23,17 @@ container with Jupyter notebook running inside.
 
 - Conferences and meetups:
   - [PyCon NA 2024 (Windhoek, Namibia)](https://na.pycon.org/)
+- Resources:
+  - pandas
+    - [An In-Depth Exploration of Pandas: Advantages, Disadvantages, and Alternatives for Large-Scale Data Processing](https://medium.com/@sajidkhan.sjic/an-in-depth-exploration-of-pandas-advantages-disadvantages-and-alternatives-for-large-scale-data-cedf0b3d04aa)
+    - [Documentation](https://pandas.pydata.org/docs/)
+  - polars
+    - [Python Polars: A Lightning-Fast DataFrame Library](https://realpython.com/polars-python/)
+    - [Documentation](https://docs.pola.rs/py-polars/html/reference/)
+  - duckdb
+    - [What is DuckDB?](https://glossary.airbyte.com/term/duckdb/)
+    - [DuckDB — What’s the Hype About?](https://betterprogramming.pub/duckdb-whats-the-hype-about-5d46aaa73196)
+    - [DuckDB and the next frontier of OLAP databases](https://kojo.blog/duckdb/)
+    - [What's in duckdb for python devs? duckdb vs pandas vd polars](https://motherduck.com/blog/duckdb-versus-pandas-versus-polars/)
+    - [Why use duckdb for analytics?](https://motherduck.com/blog/six-reasons-duckdb-slaps/)
+    - [Documentation](https://duckdb.org/docs/)
