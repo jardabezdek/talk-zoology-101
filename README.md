@@ -23,6 +23,7 @@ container with Jupyter notebook running inside.
 
 - Conferences and meetups:
   - [PyCon NA 2024 (Windhoek, Namibia)](https://na.pycon.org/)
+  - [PyCon IE 2024 (Dublin, Ireland)](https://python.ie/pycon-2024/)
 - Resources:
   - pandas
     - [An In-Depth Exploration of Pandas: Advantages, Disadvantages, and Alternatives for Large-Scale Data Processing](https://medium.com/@sajidkhan.sjic/an-in-depth-exploration-of-pandas-advantages-disadvantages-and-alternatives-for-large-scale-data-cedf0b3d04aa)
