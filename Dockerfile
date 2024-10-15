@@ -1,11 +1,10 @@
-FROM python:3.10.12-bookworm as python-base
-MAINTAINER Jaroslav Bezdek
+FROM python:3.10.12-bookworm AS python-base
 
 RUN apt-get --allow-releaseinfo-change update
 
-FROM python-base as venv-image
+FROM python-base AS venv-image
 
-RUN apt-get install -y build-essential \
+RUN apt-get update && apt-get install -y build-essential \
   python3-dev \
   python3-pip \
   python3-venv
